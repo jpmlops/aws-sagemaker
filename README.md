@@ -14,3 +14,10 @@ With SageMaker, you can build, train and deploy ML models at scale using tools l
 SageMaker supports governance requirements with simplified access control and transparency over your ML projects. In addition, you can build your own FMs, large models that were trained on massive datasets, with purpose-built tools to fine-tune, experiment, retrain, and deploy FMs. 
 
 SageMaker offers access to hundreds of pretrained models, including publicly available FMs, that you can deploy with just a few clicks.
+
+### A high-level overview of ML workflows in SageMaker
+Doing machine learning in SageMaker is slightly different than doing it on your local machine. We’ve already covered the first steps:
+
+- Creating an `AWS account`.
+- Creating a `notebook instance`.
+- Creating an `S3 bucket` for the project.
